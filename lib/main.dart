@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 import 'package:pocstackview/ui/splash.dart';
 
 void main() => runApp(MyApp());
