@@ -1,5 +1,5 @@
 import 'package:flutter_web/material.dart';
-import 'package:pocstackview/ui/splash.dart';
+import 'package:pocstackview_web/ui/splash.dart';
 
 void main() => runApp(MyApp());
 
