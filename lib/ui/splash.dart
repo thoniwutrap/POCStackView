@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:pocstackview/router.dart';
 
 class SplashScreen extends StatefulWidget {
   @override
@@ -99,7 +100,9 @@ class _SplashScreenState extends State<SplashScreen> {
           return Material(
             color: index % 2 == 1 ? Colors.grey[300] : Colors.white,
             child: new InkWell(
-              onTap: () {},
+              onTap: () {
+                  Navigator.pushNamed(context, feedRoute,arguments: "tony");
+              },
               highlightColor: Colors.blue,
               child: Container(
                 child: Column(
