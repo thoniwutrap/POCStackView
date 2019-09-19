@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 import 'package:flutter_web/material.dart';
-=======
-import 'package:flutter/material.dart';
-import 'package:pocstackview/router.dart';
->>>>>>> development/app
+import 'package:pocstackview_web/router.dart';
 
 class SplashScreen extends StatefulWidget {
   @override

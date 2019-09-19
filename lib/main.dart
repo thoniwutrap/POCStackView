@@ -1,11 +1,6 @@
-<<<<<<< HEAD
 import 'package:flutter_web/material.dart';
-import 'package:pocstackview_web/ui/splash.dart';
-=======
-import 'package:flutter/material.dart';
-import 'package:pocstackview/router.dart';
-import 'package:pocstackview/ui/splash.dart';
->>>>>>> development/app
+import 'package:pocstackview_web/router.dart';
+
 
 void main() => runApp(MyApp());
 

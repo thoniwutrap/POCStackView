@@ -1,6 +1,6 @@
-import 'package:flutter/material.dart';
-import 'package:pocstackview/ui/detail.dart';
-import 'package:pocstackview/ui/splash.dart';
+import 'package:flutter_web/material.dart';
+import 'package:pocstackview_web/ui/detail.dart';
+import 'package:pocstackview_web/ui/splash.dart';
 
 const String homeRoute = '/';
 const String feedRoute = '/feed';
